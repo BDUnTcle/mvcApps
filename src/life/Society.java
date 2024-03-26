@@ -8,8 +8,8 @@ import java.util.Set;
 
 public class Society extends Grid {
     private int percentAlive = 50;
-    public static Set<Integer> rebirth = new HashSet<Integer>();
-    public static Set<Integer> death = new HashSet<Integer>();
+    public static Set<Integer> rebirth = new HashSet<>();
+    public static Set<Integer> death = new HashSet<>();
 
     static {
         rebirth.add(3);

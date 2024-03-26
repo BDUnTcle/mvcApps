@@ -58,8 +58,6 @@ public class StoplightShape {
         } else if (light.getColor().equals(Color.RED)) {
             gc.setColor(Color.RED);
             gc.fill(redLight);
-        } else {
-            //throw new Exception("Invalid color: " + light.getColor().toString());
         }
         gc.setColor(oldColor);
     }

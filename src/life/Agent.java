@@ -3,7 +3,6 @@ package life;
 import ca.Cell;
 
 import java.awt.*;
-import java.util.Random;
 
 import static life.Society.death;
 import static life.Society.rebirth;

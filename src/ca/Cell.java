@@ -9,7 +9,7 @@ import java.awt.Color;
 
 public abstract class Cell extends Publisher implements Serializable {
 
-    protected int row = 0, col = 0;
+    protected int row , col ;
     protected Set<Cell> neighbors = new HashSet<Cell>();
     protected Grid myGrid = null;
     protected Cell partner = null;

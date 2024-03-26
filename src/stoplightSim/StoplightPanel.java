@@ -1,6 +1,5 @@
 package stoplightSim;
 
-import java.awt.*;
 import javax.swing.*;
 
 import mvc.*;
