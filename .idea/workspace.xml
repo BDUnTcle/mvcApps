@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7a5484-b135-438a-84c8-eb5caa8849fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stoplightSim/ChangeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stoplightSim/Stoplight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stoplightSim/StoplightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stoplightSim/StoplightPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stoplightSim/StoplightShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stoplightSim/StoplightView.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c7a5484-b135-438a-84c8-eb5caa8849fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +18,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2eD1vCFdbmjvP9TntWoeXDPs7Iz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,7 +42,7 @@
     "Application.StoplightPanel.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,6 +56,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-11.0.22-temurin-11.0.22-4caba194b151-d1169b8f" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
